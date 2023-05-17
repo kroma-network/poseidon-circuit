@@ -26,7 +26,7 @@ Add `Cargo.toml` under `[dependencies]`:
 
 ```toml
 [dependencies]
-poseidon-circuit = { git = "https://github.com/scroll-tech/poseidon-circuit.git" }
+poseidon-circuit = { git = "https://github.com/kroma-network/poseidon-circuit.git" }
 ```
 
 ## License
