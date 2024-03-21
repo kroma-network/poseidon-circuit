@@ -6,7 +6,7 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-halo2_proofs = { git = "https://github.com/kroma-network/halo2.git", rev = "0918c29" }
+halo2_proofs = { git = "https://github.com/kroma-network/halo2.git", rev = "4f71fab" }
 lazy_static = "1.4.0"
 thiserror = "1.0"
 bitvec = "1"
